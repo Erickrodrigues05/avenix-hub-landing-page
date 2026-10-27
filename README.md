@@ -15,13 +15,15 @@ Bilingual product landing page for a restaurant management platform, built for a
 - **Animated product demo:** a phone that plays the owner dashboard live, with new orders, daily sales and average ticket.
 - **Bilingual:** Portuguese and English with a one-tap switch.
 - **Conversion focused:** one WhatsApp call to action for lead capture.
-- **Responsive:** designed for mobile first, scales to desktop.
+- **Mobile first:** designed for phones, scales to desktop.
 
-## Screenshots
+## Mobile
 
-| Desktop | Mobile |
-|---|---|
-| <img src="screenshots/desktop.png" width="520"> | <img src="screenshots/mobile.png" width="200"> |
+<img src="screenshots/mobile.png" alt="AVENIX HUB · Product Landing Page mobile screens" width="100%">
+
+## Desktop
+
+<img src="screenshots/desktop.png" alt="AVENIX HUB · Product Landing Page desktop" width="100%">
 
 ## Stack
 
@@ -37,4 +39,8 @@ The source code is private because it belongs to the client. I am happy to walk 
 
 ---
 
-Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · erickrodrigues781@gmail.com
+<div align="center">
+
+Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · [erickrodrigues781@gmail.com](mailto:erickrodrigues781@gmail.com)
+
+</div>
